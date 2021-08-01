@@ -2,6 +2,7 @@
 
 Source ini merupakan syarat kelulusan kelas Back-End Fundamental dari Dicoding
 Silabus yang saya pelajari dari kelas ini :
+
 Hapi Plugin dan Data Validation : Menggunakan sistem Plugin pada Hapi untuk mengelola source code agar lebih mudah dipelihara. Selain itu, mengajarkan tentang menerapkan teknik Data Validation menggunakan Joi untuk memastikan data yang dikirim oleh client sesuai dengan yang diharapkan. (7 Jam) 
 Database menggunakan Amazon RDS : Menggunakan database sebagai penyimpanan data yang persisten. Modul ini menggunakan PostgreSQL sebagai database yang dipasang baik secara lokal (development) maupun production (menggunakan Amazon RDS). (6 Jam) 
 Authentication dan Authorization : Menerapkan teknik authentication untuk memvalidasi pengguna yang mengonsumsi RESTful API. Serta menerapkan teknik authorization untuk memvalidasi resource yang merupakan hak pengguna. (13 Jam) 
